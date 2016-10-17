@@ -1,0 +1,21 @@
+{
+  "name": "else-loadbalancer",
+  "version": "1.0.0",
+  "description": "Elasticsearch loadbalancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelNovotny/else-loadbalancer.git"
+  },
+  "author": "Pavel Novotny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelNovotny/else-loadbalancer/issues"
+  },
+  "homepage": "https://github.com/PavelNovotny/else-loadbalancer#readme",
+  "dependencies": {
+  }
+}
